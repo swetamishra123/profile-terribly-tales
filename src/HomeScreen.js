@@ -35,7 +35,7 @@ const POSTS = [
   {
     id: 4,
     avatar: 'https://www.bootdey.com/img/Content/avatar/avatar8.png',
-    name: 'Node.js',
+    name: 'Sona Dey',
     date: 'Dec 31, 2020',
     image: 'https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     description: 'Ending the year with a bang! Thank you to all our amazing community members for your support in 2023.',
