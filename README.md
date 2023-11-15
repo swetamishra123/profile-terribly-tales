@@ -3,6 +3,8 @@
 
 This is a React web application that displays a simple Instagram-like profile page and home feed.
 
+## Hosted in Vercel
+[demo](https://profile-terribly-tales.vercel.app)
 ## Components
 
 ### 1. `App.js`
