@@ -42,8 +42,8 @@ This is a React web application that displays a simple Instagram-like profile pa
 The project is hosted on GitHub. You can find it at [swetamishra123/profile-terribly-tales](https://github.com/swetamishra123/profile-terribly-tales).
 
 ## Screenshots
-https://drive.google.com/file/d/1WO9VF-3-R2PizIoDQQVX1xq6PgM4rl_s/view?usp=sharing
-https://drive.google.com/file/d/1eS0Z3Hakf9NQxlH2VUAlkLaLwokLzjoB/view?usp=sharing
+<img src="https://drive.google.com/file/d/1WO9VF-3-R2PizIoDQQVX1xq6PgM4rl_s/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1eS0Z3Hakf9NQxlH2VUAlkLaLwokLzjoB/view?usp=sharing">
 
 
 ## How to Run
